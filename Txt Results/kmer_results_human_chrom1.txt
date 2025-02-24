@@ -1,0 +1,11 @@
+File: human_chrom1.fa
+Basic: 48.7835 sec
+Parallel: 14.8583 sec
+Speedup: 69.54%
+Cancer k-mers: 1024
+Top 5:
+CTTTC: 9996 (in genes: FH, PRDM2, TAL1...)
+CCAAA: 9995 (in genes: FH, PRDM2, TAL1...)
+ATAAT: 9979 (in genes: FH, PRDM2, TAL1...)
+TGGAA: 9974 (in genes: FH, PRDM2, TAL1...)
+AGTTT: 9967 (in genes: FH, PRDM2, TAL1...)

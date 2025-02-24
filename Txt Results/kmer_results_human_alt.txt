@@ -1,0 +1,6 @@
+File: human_alt.fa
+Basic: 39.1183 sec
+Parallel: 12.3153 sec
+Speedup: 68.52%
+Cancer k-mers: 0
+Top 5:

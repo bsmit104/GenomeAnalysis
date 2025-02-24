@@ -1,0 +1,11 @@
+File: human_chrom1.fa
+Basic: 51.2996 sec
+Parallel: 15.0368 sec
+Speedup: 70.69%
+Cancer k-mers: 1024
+Top 5:
+CTTTC: 9996 (in genes: JUN, RPL22, RPL5...)
+CCAAA: 9995 (in genes: JUN, RPL22, RPL5...)
+ATAAT: 9979 (in genes: JUN, RPL22, RPL5...)
+TGGAA: 9974 (in genes: JUN, RPL22, RPL5...)
+AGTTT: 9967 (in genes: JUN, RPL22, RPL5...)
