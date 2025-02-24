@@ -1,3 +1,7 @@
+# Brayden Smith
+# jbrayden35@gmail.com
+# analyze genomic data, focusing on Human Chromosome 1 to identify cancer related genes
+
 import time
 from collections import defaultdict
 import multiprocessing as mp
